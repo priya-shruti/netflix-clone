@@ -1,0 +1,11 @@
+.background{
+    background-image: url(images/netflix.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#image{
+    float:right;
+}
+#image2{
+    float:left;
+}
